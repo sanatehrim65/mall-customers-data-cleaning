@@ -4,7 +4,7 @@ This repository documents the Excel-based cleaning of a raw customer dataset for
 
 ## Files Included
 - **Mall Customers Dirty.csv**: The intentionally dirty dataset (with missing values, duplicates, and inconsistencies).
-- **Mall customers.xlsx**: The cleaned version of the dataset.
+- **Mall customers.csv**: The cleaned version of the dataset.
 - **cleaning_summary.md**: Step-by-step documentation of the cleaning process.
 
 ## Cleaning Done in Excel:
