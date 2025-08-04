@@ -19,5 +19,5 @@ This repository documents the Excel-based cleaning of a raw customer dataset for
 ## Tools Used
 - Microsoft Excel
 
-Prepared by: [Your Full Name]  
+Prepared by: KUDREKAR SANA TEHRIM  
 Internship Task: Data Cleaning  
